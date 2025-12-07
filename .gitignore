@@ -1,0 +1,22 @@
+# ----- UE プロジェクトでいらないもの -----
+
+# ビルド成果物
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ユーザーごとの設定
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Mac 系
+.DS_Store
+
+# ログ / バックアップ
+*.log
+*_Backup*.uasset

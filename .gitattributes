@@ -1,0 +1,5 @@
+# Disable Git LFS - use regular Git instead
+*.uasset -filter -diff -merge
+*.umap -filter -diff -merge
+* -filter -diff -merge
+
